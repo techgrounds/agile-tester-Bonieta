@@ -52,7 +52,12 @@ Nogmaals: het testen zelf is niet zozeer anders, het is de context waarin je het
 
 Schrijf hier
 
+<<<<<<< HEAD
 Na het lezen van beiden artikelen zie ik wel wat gelijknissen. Beiden waarderen de interactie tussen individuelen en hun interactie tussen elkaar. in de manifesto is dat een van de belangrijke punten en in een scrum team het gaat erom dat elk individu een bijdragen aan het team lever en hun input is zo wie zo van belang om alles goed te laten lopen. een werkend eind product is het doel van een scrum team zoals ook in de manifesto gezegd word is werkend software belangrijker dan er over schrijven en documenteren. De volgende punt is te vinden bij de product owner en de customer callibration zijn ook verglijkbaar je wil bij allebei zorgen dat de eigenaar de juiste product en process krijgt om die product zo goed als het kan af te leveren en wil niet de tijd en moeite insteken om erover alleen te praten.  veder vind ik een van de belangrijkste in de scrum en manifest is reponding to change and  over following a plan. Dit zie je ontzettend goed in meerdere fase van een scrum. namelijk na een sprint in de review, de retrospecective en zelfs bij de standup. Tijdens de review, retrospective, en de standup zie je wel of de plan van aanpak de juiste was, wat werkte en wat niet werkte en kan je ingrijkpen en aanpssingen maken zo dat de process sneller en makkelijker kan verlopen. Ik vind dat de manifesto een goede lijdraad was voor wat uiteindlijk scrum is geworden zoals dat nu  uitziet.
+=======
+
+
+>>>>>>> b3325d08f84c7e958bed7256d27e0a928f078831
 
 
 
