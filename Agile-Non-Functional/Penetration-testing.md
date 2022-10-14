@@ -76,11 +76,53 @@ De bovenstaande 7 categorieën zijn een manier om de soorten pentests te categor
 # Onderzoek :
 
 - Manual Penetration Test
+- Manual penetration testing is the testing that is done by human beings. In such type of testing, vulnerability and risk of a machine is tested by an expert engineer. Data Collection − Data collection plays a key role for testing.
 - Penetration test process
+- Penetration testing is an effective testing process that helps to uncover the critical security issues of your system to check for exploitable vulnerabilities to their IT Infrastructure, or web applications.
 - Methods of Manual penetration testing
+What is Manual Penetration Testing?
+Manual penetration testing is the testing that is done by human beings. In such type of testing, vulnerability and risk of a machine is tested by an expert engineer.
 
+Generally, testing engineers perform the following methods −
+
+Data Collection − Data collection plays a key role for testing. One can either collect data manually or can use tool services (such as webpage source code analysis technique, etc.) freely available online. These tools help to collect information like table names, DB versions, database, software, hardware, or even about different third party plugins, etc
+
+Vulnerability Assessment − Once the data is collected, it helps the testers to identify the security weakness and take preventive steps accordingly.
+
+Actual Exploit − This is a typical method that an expert tester uses to launch an attack on a target system and likewise, reduces the risk of attack.
+
+Report Preparation − Once the penetration is done, the tester prepares a final report that describes everything about the system. Finally the report is analyzed to take corrective steps to protect the target system.
+
+Manual Penetration Testing
+Types of Manual Penetration Testing
+Manual penetration testing is normally categorized in two following ways −
+
+Focused Manual Penetration Testing − It is a much focused method that tests specific vulnerabilities and risks. Automated penetration testing cannot perform this testing; it is done only by human experts who examine specific application vulnerabilities within the given domains.
+
+Comprehensive Manual Penetration Testing − It is through testing of whole systems connected with each other to identify all sorts of risk and vulnerability. However, the function of this testing is more situational, such as investigating whether multiple lower-risk faults can bring more vulnerable attack scenario, etc
+
+What is Automated Penetration Testing?
+Automated penetration testing is much faster, efficient, easy, and reliable that tests the vulnerability and risk of a machine automatically. This technology does not require any expert engineer, rather it can be run by any person having least knowledge of this field.
+
+Tools for automated penetration testing are Nessus, Metasploit, OpenVAs, backtract (series 5), etc. These are very efficient tools that changed the efficiency and meaning of penetration testing.
+
+However, the following table illustrates the fundamental difference between the manual and automated penetration testing −
+
+Manual Penetration Testing	Automated Penetration Testing
+It requires expert engineer to perform the test.	It is automated so even a learner can run the test.
+It requires different tools for the testing.	It has integrated tools does required anything from outside.
+In this type of testing, results can vary from test to test.	It has fixed result.
+This test requires to remember cleaning up memory by the tester.	It does not.
+It is exhaustive and time taking.	It is more efficient and fast.
+It has additional advantages i.e. if an expert does pen test, then he can analyze better, he can think what a hacker can think and where he can attack. Hence, he can put security accordingly.	It cannot analyze the situation.
+As per the requirement, an expert can run multiple testing.	It cannot.
+For critical condition, it is more reliable.	It is not.
 # Opdracht:
 
 - Bedenk een scenario waarbij penetration testing van pas kan komen
+- penertration testing zou goed van toepassing komen bij een bank. om te kijken of de manier van bankeren is veilig, dat niet zomaar bij de wachtworden en gegevens kunnen komen enz. 
 - Schrijf de stappen uit die jij zou nemen binnen Penetration testing om goed te kunnen testen in Github Classroom
+- ik zou verschillende manieren gebruiken om te kijken of alle kanten gedekt zijn eerst dat in de inlog gegevens en personlijke gegevens veilig zijn. met data collecton en vulnerabiliety testing zou ik mee beginnen daar na zou ik veder gaan met manual testing  met de doel dat niet zo maar iemand bij de gegevens kan komen van klanten of van de bedrijf. 
+- 
 - Schrijf een samenvatting uit wat jij verstaat onder Penetration testing. Werk dit uit in Github Classroom.
+- penertration testing is eigenlijk hacken. kijken of er gaten in de veiligheid van een systeem is of dat iets ontbrekt belangrijk is dat de site  of app  met  personlijk gegevens, van de klant en van de bedrijf veilig kunnen stellenv voor iemand die evtueel kwaad er mee zou willen.  zorgen dat de systeem, functies veilig zijn van hackers die kwaad zou willen 
